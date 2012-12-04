@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.AspNet.SignalR.RabbitMQ", "Microsoft.AspNet.SignalR.RabbitMQ\Microsoft.AspNet.SignalR.RabbitMQ.csproj", "{A8A4AD23-6967-43D9-9CE9-FC19B910D667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.AspNet.SignalR.RabbitMQ.Sample", "Microsoft.AspNet.SignalR.RabbitMQ.Sample\Microsoft.AspNet.SignalR.RabbitMQ.Sample.csproj", "{78FAB3C8-CA1E-4E54-AF24-2936C14F9C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A4AD23-6967-43D9-9CE9-FC19B910D667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A4AD23-6967-43D9-9CE9-FC19B910D667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A4AD23-6967-43D9-9CE9-FC19B910D667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A4AD23-6967-43D9-9CE9-FC19B910D667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FAB3C8-CA1E-4E54-AF24-2936C14F9C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FAB3C8-CA1E-4E54-AF24-2936C14F9C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FAB3C8-CA1E-4E54-AF24-2936C14F9C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FAB3C8-CA1E-4E54-AF24-2936C14F9C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
